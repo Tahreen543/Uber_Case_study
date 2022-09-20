@@ -1,2 +1,1 @@
-# Uber_Case_study
-Case Study using python
+# Uber_Case_Study
